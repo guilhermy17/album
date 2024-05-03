@@ -1,0 +1,14 @@
+#portals {
+  border: 10px inset #3e6043;
+  padding: 10px;
+  margin: 25px;
+}
+#tvgirl {
+  border: 10px inset #0000b3;
+  padding: 10px;
+  margin: 25px;
+}
+body {
+  background-color: black;
+  color: white;
+}
